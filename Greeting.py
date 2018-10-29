@@ -12,7 +12,7 @@ if hour < 10:
     printf("Good morning World!")
 elif hour < 17 :
     printf("Hello World!")
-elif hour< 15
+elif hour>20
     printf("Good evening World")
 else
     printf("good night")
