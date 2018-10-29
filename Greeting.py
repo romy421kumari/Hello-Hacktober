@@ -10,10 +10,12 @@ hour = now.hour
 
 if hour < 10:
     printf("Good morning World!")
-elif hour < 17:
+elif hour < 17 :
     printf("Hello World!")
-else:
+elif hour< 15
     printf("Good evening World")
+else
+    printf("good night")
     
 
 
